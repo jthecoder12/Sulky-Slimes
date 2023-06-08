@@ -7,4 +7,4 @@ To move the slime, hold and drag the mouse to a direction. The slime will then m
 **CREDITS:**
 The Unity Asset Store for most of the assets.
 
-**[ONLINE GAME]**(https://jthecoder12.github.io/Sulky-Slimes)
+**[ONLINE GAME](https://jthecoder12.github.io/Sulky-Slimes)**
